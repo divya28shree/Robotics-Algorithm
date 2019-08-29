@@ -1,0 +1,3 @@
+<launch>
+	<node name="robo" pkg="lab4" type="lab4.py" />
+</launch>
